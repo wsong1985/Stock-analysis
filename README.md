@@ -64,13 +64,13 @@
 
   * Advantages of Refactoring Code:
 
-    * _Improve the design of the software._
+    * _It can improve the design of the software._
 
-    * _Simplify the code and make it easier to understand._
+    * _It simplifies the code and makes it easier to understand._
 
-    * _Help the developer find bugs._
+    * _It helps the developer find bugs._
 
-    * _Enhance the efficiency and help the program run faster._ 
+    * _It enhances the efficiency and helps the program run faster._ 
   
   * Disadvantages of Refactoring Code:
 
