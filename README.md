@@ -16,23 +16,23 @@
 
   _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively minor than in 2017._ 
 
-  <img src="Resources/Stock Performance_2017.png" width = "600">
+  <img src="Resources/Stock Performance_2017.png" width = "300">
 
-  <img src="Resources/Stock Performance_2018.png" width = "600">
+  <img src="Resources/Stock Performance_2018.png" width = "300">
 
 ### **Execution Time Comparison between the Original Script and the Refactored Script**
 
   _1. For the year 2017, the execution time of the original script is about 0.796875 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
   
-  <img src="Elapsed Run Time with Original Code _2017.PNG" width = "600">
+  <img src="Resources/Elapsed Run Time with Original Code _2017.PNG" width = "300">
 
-  <img src="VBA_Challenge_2017.PNG" width = "600">
+  <img src="Resources/VBA_Challenge_2017.PNG" width = "300">
 
   _2. For the year 2018, the execution time of the original script is about 0.765625 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
 
-  <img src="Resources/Elapsed Run Time with Original Code _2018.PNG" width = "600">
+  <img src="Resources/Elapsed Run Time with Original Code _2018.PNG" width = "300">
   
-  <img src="Resources/VBA_Challenge_2018.PNG" width = "600">
+  <img src="Resources/VBA_Challenge_2018.PNG" width = "300">
 
 ## **Summary**
 
