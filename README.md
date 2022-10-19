@@ -34,7 +34,7 @@
   <table>
   <tr>
     <td>Original Script</td>
-    <td>Refactoring Script</td>
+    <td>Refactored Script</td>
   </tr>
   <tr>
     <td><img src="Resources/Elapsed Run Time with Original Code _2017.PNG" width=300></td>
@@ -47,7 +47,7 @@
   <table>
   <tr>
     <td>Original Script</td>
-    <td>Refactoring Script</td>
+    <td>Refactored Script</td>
   </tr>
   <tr>
     <td><img src="Resources/Elapsed Run Time with Original Code _2018.PNG" width=300></td>
@@ -75,7 +75,7 @@
 
    - _There is a chance of creating bugs/errors during the refactoring process._
 
-   - _It is risky when the existing code doesn't have a comprehensive data set for a test, which will lead to a situation that the developer has no clue how to fix the new bugs/errors._
+   - _It is risky when refactoring code during testing phase, which will lead to a situation that the developer has no clue how to fix the new bugs/errors._
 
 - **What are the advantages and disadvantages of the original and refactored VBA script?**
 
@@ -83,4 +83,30 @@
 
    - _Advantanges:_
 
-    - _1. 11
+    - _It has more flexibility, which is easier to add new functions to the existing code._
+    
+    - _Each function in the script acts independently, which is easier to modify the existing code._
+
+   - _Disadvantages:_
+   
+    - _The code is potentially getting long._
+    
+    - _Some steps are redundant._
+
+    - _Sometime, it is hard to follow._
+    
+  - _Refactored VBA script:_
+
+   - _Advantages:_
+   
+    - _It runs faster than the original VBA script._
+    
+    - _It consists of fewer lines._
+    
+    - _It is easier to understand._
+   
+   - _Disadvantages:_
+    
+    - _It takes time to refactor the code._
+
+    - _It requires some thinking, and it may need to redesign the existing functions so they can interact with each other more efficiently._ 
