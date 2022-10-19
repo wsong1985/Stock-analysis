@@ -33,8 +33,8 @@
   
   <table>
   <tr>
-    <td>Original Code</td>
-    <td>Refactoring Code</td>
+    <td>Original Script</td>
+    <td>Refactoring Script</td>
   </tr>
   <tr>
     <td><img src="Resources/Elapsed Run Time with Original Code _2017.PNG" width=300></td>
@@ -46,8 +46,8 @@
 
   <table>
   <tr>
-    <td>Original Code</td>
-    <td>Refactoring Code</td>
+    <td>Original Script</td>
+    <td>Refactoring Script</td>
   </tr>
   <tr>
     <td><img src="Resources/Elapsed Run Time with Original Code _2018.PNG" width=300></td>
