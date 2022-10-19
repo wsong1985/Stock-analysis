@@ -16,9 +16,9 @@
 
   _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively minor than in 2017._ 
 
-  <img src="Resources/Stock Performance_2017.png" width = "300">
+  <img src="Resources/Stock Performance_2017.PNG" width = "300">
 
-  <img src="Resources/Stock Performance_2018.png" width = "300">
+  <img src="Resources/Stock Performance_2018.PNG" width = "300">
 
 ### **Execution Time Comparison between the Original Script and the Refactored Script**
 
@@ -40,26 +40,26 @@
 
   - _Advantages of Refactoring Code:_
 
-    - _1. Improve the design of the software._
+   - _Improve the design of the software._
 
-    - _2. Simplify the code and make it easier to understand._
+   - _Simplify the code and make it easier to understand._
 
-    - _3. Help the developer find bugs._
+   - _Help the developer find bugs._
 
-    - _4. Enhance the efficiency and help the program run faster._ 
+   - _Enhance the efficiency and help the program run faster._ 
   
   - _Disavantages of Refactoring Code:_
 
-    - _1. Refactoring code is very time-consuming._
+   - _Refactoring code is very time-consuming._
 
-    - _2. There is a chance of creating bugs/errors during the refactoring process._
+   - _There is a chance of creating bugs/errors during the refactoring process._
 
-    - _3. It is risky when the existing code doesn't have a comprehensive data set for a test, which will lead to a situation that the developer has no clue how to fix the new bugs/errors._
+   - _It is risky when the existing code doesn't have a comprehensive data set for a test, which will lead to a situation that the developer has no clue how to fix the new bugs/errors._
 
 - **What are the advantages and disadvantages of the original and refactored VBA script?**
 
   - _Original VBA script:_
 
-    - _Advantanges:_
+   - _Advantanges:_
 
-      - _1. 11
+    - _1. 11
