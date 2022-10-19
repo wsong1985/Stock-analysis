@@ -22,8 +22,8 @@
     <td>Stock Performance in 2018</td>
   </tr>
   <tr>
-    <td><img src="Resources/Stock Performance _2017.png" width=300 height=480></td>
-    <td><img src="Resources/Stock Performance _2018.png" width=300 height=480></td>
+    <td><img src="Resources/Stock Performance _2017.png" width=300></td>
+    <td><img src="Resources/Stock Performance _2018.png" width=300></td>
   </tr>
  </table>
 
