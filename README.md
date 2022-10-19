@@ -24,9 +24,9 @@
 
   _1. For the year 2017, the execution time of the original script is about 0.796875 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
   
-  <img src="Resources/Elapsed Run Time with Original Code _2017.png" width = "600" >
+  <img src="Elapsed Run Time with Original Code _2017.png" width = "600" >
 
-  <img src="Resources/VBA_Challenge_2017.png" width = "600" >
+  <img src="VBA_Challenge_2017.png" width = "600" >
 
   _2. For the year 2018, the execution time of the original script is about 0.765625 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
 
