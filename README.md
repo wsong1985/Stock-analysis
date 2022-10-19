@@ -16,9 +16,9 @@
 
   _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively minor than in 2017._ 
 
-  <img src="Resources/Stock Performance_2017.PNG" width = "300">
+  <img src="Resources/Stock Performance _2017.png" width = "300">
 
-  <img src="Resources/Stock Performance_2018.PNG" width = "300">
+  <img src="Resources/Stock Performance _2018.png" width = "300">
 
 ### **Execution Time Comparison between the Original Script and the Refactored Script**
 
