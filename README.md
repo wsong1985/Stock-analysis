@@ -15,7 +15,7 @@
 
   _3. RUN outperformed the other stocks in 2018, with an approximately 78.5% increase in return compared with 2017._
 
-  _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively minor compared to 2017._ 
+  _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively less than in 2017._ 
   
   <table>
   <tr>
