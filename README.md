@@ -15,7 +15,7 @@
 
   _3. RUN outperformed the other stocks in 2018, with an approximately 78.5% increase in return compared with 2017._
 
-  _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively minor than in 2017._ 
+  _4. TERP continued to underperform in 2018, with a 5% loss in return; however, the loss was relatively minor compared to 2017._ 
   
   <table>
   <tr>
@@ -31,7 +31,7 @@
 
 ### **Execution Time Comparison between the Original Script and the Refactored Script**
 
-  _1. For the year 2017, the execution time of the original script is about 0.796875 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
+  _1. For the year 2017, the execution time of the original script was about 0.796875 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
   
   <table>
   <tr>
@@ -44,7 +44,7 @@
   </tr>
   </table>
 
-  _2. For the year 2018, the execution time of the original script is about 0.765625 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
+  _2. For the year 2018, the execution time of the original script was about 0.765625 seconds. With the refactored script, the execution time can be shortened to 0.1289063 seconds, approximately six times faster than the original script._ 
 
   <table>
   <tr>
@@ -70,7 +70,7 @@
 
     * _It helps the developer find bugs._
 
-    * _It enhances the efficiency and helps the program run faster._ 
+    * _It enhances efficiency and helps the program run faster._ 
   
   * Disadvantages of Refactoring Code:
 
@@ -78,7 +78,7 @@
 
     * _There is a chance of creating bugs/errors during the refactoring process._
 
-    * _It is risky when refactoring code during testing phase, which will lead to a situation that the developer has no clue how to fix the new bugs/errors._
+    * _It is risky when refactoring code during testing phase, which will lead to a situation that the developer has no clue on how to fix the new bugs/errors._
 
 - **What are the advantages and disadvantages of the original and refactored VBA script?**
 
